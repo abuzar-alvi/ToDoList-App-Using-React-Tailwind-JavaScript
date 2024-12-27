@@ -29,9 +29,11 @@
 
 Check [Issues](https://github.com/RaDins-18/ToDoList-App-Using-React-Tailwind-JavaScript/issues) for contributing to this repository.
 
-* Dynamic Posts: Get posts dynamically.
-* Functionality: Make it functional.
-* Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the posts can be viewed anywhere, anytime.
+* SubTasks: Adding subtasks to the enlisted tasks, could be an option.
+* Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
+* ScratchPad: Adding an option of a Scratch pad and it can be locally saved.
+* Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
+* Reminder/Alerts: Sending automated mails once logged in, and due date/time set.
 
 # *Contributions*
 
